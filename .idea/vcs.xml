@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/Helloword2" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SpringBasic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBasic/boot501" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SpringBasic/minitest" vcs="Git" />
   </component>
 </project>
